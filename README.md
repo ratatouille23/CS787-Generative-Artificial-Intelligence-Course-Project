@@ -1,7 +1,7 @@
 # CS787-Generative-Artificial-Intelligence-Course-Project
 Improving Hybrid Attention Network (HAN) for Stock Movement Prediction using FinBERT-enhanced Embeddings
 
-\. Reproducibility & Artifacts
+# Reproducibility & Artifacts
 ### Packages and Versions
 
 *   python == 3.12

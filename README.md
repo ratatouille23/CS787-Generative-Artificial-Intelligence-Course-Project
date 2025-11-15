@@ -22,9 +22,9 @@ Improving Hybrid Attention Network (HAN) for Stock Movement Prediction using Fin
 2. In the command line, setup a python virtual environment.
 3. Install the packages mentioned above.
 4. Edit the config files of both the models depending on the system.
-5. To run original HAN
-   5.1 Type the command "python original_han_dataset.py" to load the datset.
+5. To run original HAN <br>
+   5.1 Type the command "python original_han_dataset.py" to load the datset. <br>
    5.2 Type the command "python train_original_han.py" to train and test the model.
-6. To run the updated HAN
-   6.1 Type the command "python dataset_finbert.py" to load the datset.
+6. To run the updated HAN <br>
+   6.1 Type the command "python dataset_finbert.py" to load the datset. <br>
    6.2 Type the command "python train.py" to train and test the model.
